@@ -21,3 +21,6 @@ I don’t plan on collaborating with other classmates.
 
 How finished do we have to be by the deadline? For example, if I were to submit a project where I do have code and a good idea but I couldn’t get past all the errors by the deadline so it simply doesn’t run how many points would be taken off? This question also goes for if I was able to get through all possible errors and my code “runs” but nothing actually shows for it and it isn’t playable or usable. Thank you!
 
+
+FINAL PROJECT VIDEO LINK:
+https://youtu.be/Wj5HWTnqghA 
